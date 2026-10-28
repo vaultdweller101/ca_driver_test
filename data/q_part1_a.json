@@ -101,14 +101,14 @@
     "id": "s2-q5",
     "sectionId": 2,
     "sectionTitle": "Section 2: Getting an Instruction Permit and Driver's License",
-    "question": "During the first 12 months with a provisional license, during what hours is a minor prohibited from driving without an exception or a licensed adult aged 25+?",
+    "question": "You are under 18 years of age and have had your provisional license for eight months. Without an exception, you may drive:",
     "options": [
-      "Between 10 p.m. and 6 a.m.",
-      "Between 11 p.m. and 5 a.m.",
-      "Between midnight and 5 a.m.",
-      "Between 9 p.m. and 5 a.m."
+      "Between 5 a.m. and 10 p.m.",
+      "Between 5 a.m. and 11 p.m.",
+      "Between 6 a.m. and midnight",
+      "At any hour as long as you have no passengers"
     ],
     "correctIndex": 1,
-    "explanation": "During the first 12 months, provisional drivers cannot drive between 11 p.m. and 5 a.m. or transport passengers under 20 without a licensed driver aged 25 or older."
+    "explanation": "During the first 12 months with a provisional license, you cannot drive between 11 p.m. and 5 a.m. (meaning you may drive between 5 a.m. and 11 p.m.)."
   }
 ]

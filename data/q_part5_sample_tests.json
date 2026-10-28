@@ -1,0 +1,296 @@
+[
+  {
+    "id": "s6-q25",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When is it legal to drive off the road to pass another vehicle?",
+    "options": [
+      "It is not legal under any conditions",
+      "When the vehicle ahead is turning left and there is a wide paved shoulder",
+      "When traffic is stopped on a two-lane highway",
+      "When instructed by another driver waving you past"
+    ],
+    "correctIndex": 0,
+    "explanation": "Never drive off the paved or main-traveled part of the road to pass another vehicle under any conditions."
+  },
+  {
+    "id": "s6-q26",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "Which of the following is the proper procedure for parallel parking?",
+    "options": [
+      "Pull straight into the space nose-first and then back up to straighten out",
+      "Stop next to the vehicle in front of the open space, and then back into the space",
+      "Stop next to the vehicle behind the open space, and then pull forward into the space",
+      "Back into the space at a 90-degree angle until your rear tires hit the curb"
+    ],
+    "correctIndex": 1,
+    "explanation": "To parallel park, pull up alongside the vehicle in front of the open space (about two feet away) and then back into the space at about a 45-degree angle."
+  },
+  {
+    "id": "s6-q27",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What speed should you be driving when entering onto a highway?",
+    "options": [
+      "At least 10 mph slower than highway traffic",
+      "At or near the speed of traffic",
+      "Exactly 45 mph on all on-ramps",
+      "As fast as your vehicle can accelerate regardless of traffic"
+    ],
+    "correctIndex": 1,
+    "explanation": "When entering a highway, you should be at or near the speed of traffic so you can merge safely."
+  },
+  {
+    "id": "s6-q28",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "Who can legally park next to a curb painted blue?",
+    "options": [
+      "Anyone stopping for less than 5 minutes to pick up passengers",
+      "Commercial delivery vehicles unloading freight",
+      "A person who is disabled and has a special placard or vehicle license plate for disabled persons",
+      "Any senior driver aged 62 or older"
+    ],
+    "correctIndex": 2,
+    "explanation": "Blue curbs are reserved exclusively for disabled persons or someone driving a disabled person who displays a special placard or disabled license plate."
+  },
+  {
+    "id": "s6-q29",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "In addition to setting your parking brake, what should you do when parking on a hill?",
+    "options": [
+      "Leave the vehicle in neutral so the brakes do not lock",
+      "Turn on your emergency flashers until you return",
+      "Make sure your vehicle is in the 'park' position or in gear",
+      "Leave at least 3 feet between your wheels and the curb"
+    ],
+    "correctIndex": 2,
+    "explanation": "When parking on a hill, always set the parking brake and leave the vehicle in the 'park' position (or in gear for a manual transmission)."
+  },
+  {
+    "id": "s6-q30",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "Where should you begin a left turn from a one-way street onto a one-way street?",
+    "options": [
+      "The center lane",
+      "The far-left lane",
+      "Any lane as long as no bicyclists are present",
+      "The lane closest to the right curb"
+    ],
+    "correctIndex": 1,
+    "explanation": "When turning left from a one-way street onto a one-way street, start the turn from the far-left lane."
+  },
+  {
+    "id": "s6-q31",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What color curb does not allow vehicles to stop, stand, or park (except buses at a marked bus zone)?",
+    "options": [
+      "White",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "explanation": "A red curb indicates no stopping, standing, or parking, except for buses at a red zone marked for buses only."
+  },
+  {
+    "id": "s6-q32",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When is parking in a crosshatched (diagonal lines) area next to a disabled parking space allowed?",
+    "options": [
+      "When you have a valid disabled parking placard and all blue spaces are full",
+      "When waiting inside your vehicle for less than 3 minutes",
+      "It is never allowed to park in a crosshatched (diagonal lines) area",
+      "Only on Sundays and holidays"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is never legal to park or leave your vehicle in the crosshatched (diagonal lines) area next to a designated disabled parking space."
+  },
+  {
+    "id": "s6-q33",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "In which lane should you end your turn when making a right turn?",
+    "options": [
+      "Any lane that is open",
+      "The lane closest to the center divider",
+      "The lane closest to the right edge of the road",
+      "The bicycle lane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Begin and end a right turn in the lane closest to the right edge of the road without swinging wide into another lane."
+  },
+  {
+    "id": "s7-q25",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What should you do when there is a school bus ahead that starts flashing yellow warning lights?",
+    "options": [
+      "Speed up to pass the bus before the red lights turn on",
+      "Slow down and prepare to stop",
+      "Honk your horn to alert children on the sidewalk",
+      "Change lanes and pass at 25 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "School buses flash yellow lights when preparing to stop to let children off; you must slow down and prepare to stop."
+  },
+  {
+    "id": "s7-q26",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What should you do when reaching an intersection where a person operating a motorized wheelchair has entered the crosswalk?",
+    "options": [
+      "Turn carefully behind the motorized wheelchair before it reaches the curb",
+      "Remain stopped behind the crosswalk line until the motorized wheelchair has safely finished crossing",
+      "Tap your horn lightly to let the person know you are waiting",
+      "Proceed slowly through the other half of the crosswalk"
+    ],
+    "correctIndex": 1,
+    "explanation": "A person with a disability using a motorized wheelchair is a pedestrian; you must remain stopped behind the limit/crosswalk line until they have safely finished crossing."
+  },
+  {
+    "id": "s7-q27",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "Any driver who willfully flees or attempts to evade law enforcement, during which a person is seriously injured, is subject to:",
+    "options": [
+      "A fine of no more than $500 and traffic violator school",
+      "License suspension for 30 days only",
+      "Imprisonment in a state prison for up to seven years, or a county jail for one year or less",
+      "Community service for 60 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "A person convicted of causing serious bodily injury during a law enforcement pursuit is subject to imprisonment in a state prison for up to seven years, or a county jail for one year or less."
+  },
+  {
+    "id": "s7-q28",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What should a driver do who is stopped at an intersection and wants to make a left turn?",
+    "options": [
+      "Turn immediately before oncoming traffic enters the intersection",
+      "Give the right-of-way to any pedestrian or approaching vehicle that is close enough to be dangerous",
+      "Flash high-beam headlights to claim the right-of-way",
+      "Expect oncoming traffic turning right to yield to you"
+    ],
+    "correctIndex": 1,
+    "explanation": "When turning left, you must check for pedestrians and give the right-of-way to any pedestrian or approaching vehicle that is close enough to be dangerous."
+  },
+  {
+    "id": "s7-q29",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "If a traffic signal is green, but traffic is blocking the intersection, what should you do?",
+    "options": [
+      "Pull into the middle of the intersection so you do not miss the green light",
+      "Follow closely behind the car ahead and stop in the crosswalk",
+      "Wait and do not enter the intersection until your vehicle can get completely across",
+      "Use the bicycle lane to drive around the blocked traffic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Even with a green light, it is against the law to enter or block an intersection unless there is enough space to completely cross before the light turns red."
+  },
+  {
+    "id": "s7-q30",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "When is it required for you to obey directions from a school crossing guard?",
+    "options": [
+      "Only during posted school zone hours",
+      "Only when children are visible in the middle of the street",
+      "At all times",
+      "Only when flashing yellow school zone lights are active"
+    ],
+    "correctIndex": 2,
+    "explanation": "When near schools, you must look for school safety patrols or crossing guards and obey their directions at all times."
+  },
+  {
+    "id": "s7-q31",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What should you do when traffic is slow and heavy, and you must cross railroad tracks before reaching an upcoming intersection?",
+    "options": [
+      "Stop on the tracks briefly if the cars ahead are moving slowly",
+      "Wait until you can completely cross the tracks before proceeding",
+      "Drive around the crossing gates if no train is visible",
+      "Speed up to close the gap with the car in front of you"
+    ],
+    "correctIndex": 1,
+    "explanation": "Never stop on railroad tracks; wait and do not begin proceeding across the tracks unless you have enough room to completely clear them."
+  },
+  {
+    "id": "s7-q32",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What does a flashing yellow traffic signal light direct a driver to do?",
+    "options": [
+      "Come to a complete stop before entering the intersection",
+      "Slow down and proceed with caution",
+      "Speed up before the signal turns red",
+      "Yield to all vehicles on the left and right after stopping"
+    ],
+    "correctIndex": 1,
+    "explanation": "A flashing yellow traffic signal light is a warning to slow down, be alert, and proceed with caution; you do not need to stop."
+  },
+  {
+    "id": "s8-q17",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "According to California's Basic Speed Law, if a highway has a posted speed limit of 65 mph, what does this mean?",
+    "options": [
+      "You may legally drive 65 mph regardless of weather or traffic",
+      "You must drive 65 mph only if driving conditions are ideal, and you can be given a speeding ticket at the posted limit if road or weather conditions require a slower speed",
+      "65 mph is the minimum speed allowed in all lanes",
+      "You cannot be cited for speeding as long as you stay at or below 65 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under California's Basic Speed Law, you may never drive faster than is safe for current conditions; 65 mph is the maximum limit only under ideal conditions."
+  },
+  {
+    "id": "s8-q18",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "At what point during a rainfall are roads most slippery, especially on a hot and dry day?",
+    "options": [
+      "After it has been raining steadily for several hours",
+      "For the first several minutes when it starts to rain",
+      "Only after the rain has completely stopped",
+      "Only when water puddles are more than 2 inches deep"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pavement is most slippery during the first several minutes of rain, especially after dry, hot weather, because oil and dust on the road surface have not yet been washed away."
+  },
+  {
+    "id": "s8-q19",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "What should an adult driver do if their cell phone rings while driving and they do not have a hands-free device?",
+    "options": [
+      "Answer the call briefly on speakerphone while holding the phone",
+      "Do not answer the phone and let the call go to voicemail",
+      "Check the caller ID and send a quick text reply",
+      "Slow down to 25 mph in the right lane to answer the call"
+    ],
+    "correctIndex": 1,
+    "explanation": "Driving while using a handheld cell phone is unsafe and illegal; do not answer your cell phone if it rings and let the call go to voicemail."
+  },
+  {
+    "id": "s10-q5",
+    "sectionId": 10,
+    "sectionTitle": "Section 10: Financial Responsibility, Insurance Requirements, and Collisions",
+    "question": "According to the California Driver's Handbook, what is one of the most common causes of traffic collisions?",
+    "options": [
+      "Mechanical tire failure",
+      "Driver distractions",
+      "Road construction detours",
+      "Driving vehicles with automatic transmissions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Driver distractions, unsafe speed, improper turns, and failing to follow right-of-way or stop rules are the most common causes of collisions."
+  }
+]

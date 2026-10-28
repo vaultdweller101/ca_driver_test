@@ -31,7 +31,7 @@
     "id": "s7-q19",
     "sectionId": 7,
     "sectionTitle": "Section 7: Laws and Rules of the Road",
-    "question": "What is the speed limit in an alley or at a blind intersection where you cannot see for 100 feet in both directions?",
+    "question": "When a railroad crossing is not controlled, what is the speed limit when you are within 100 feet and cannot see for 400 feet in both directions (as well as in alleys and blind intersections)?",
     "options": [
       "10 mph",
       "15 mph",
@@ -39,7 +39,7 @@
       "25 mph"
     ],
     "correctIndex": 1,
-    "explanation": "The speed limit is 15 mph in alleys and within 100 feet of a blind intersection without stop signs where you cannot see for 100 feet in both directions."
+    "explanation": "The speed limit is 15 mph within 100 feet of an uncontrolled railroad crossing where you cannot see for 400 feet in both directions, as well as in alleys and blind intersections."
   },
   {
     "id": "s7-q20",

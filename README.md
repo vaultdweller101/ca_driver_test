@@ -1,12 +1,12 @@
 # 2026 California DMV Knowledge Test Simulator
 
-An interactive web application that generates realistic **46-question California DMV knowledge practice tests** randomly drawn from a **105-question test bank** based strictly on the official **2026 California Driver's Handbook**.
+An interactive web application that generates realistic **46-question California DMV knowledge practice tests** randomly drawn from a **126-question test bank** based strictly on the official **2026 California Driver's Handbook** and the 4 official California DMV Sample Class C Written Tests.
 
 ---
 
 ## Features
 
-- **Official 46-Question Format**: Every test randomly picks **46 multiple-choice questions** from the 105-question handbook bank using a Fisher-Yates shuffle.
+- **Official 46-Question Format**: Every test randomly picks **46 multiple-choice questions** from the 126-question handbook bank using a Fisher-Yates shuffle.
 - **83% Passing Threshold (38 / 46)**: Matches the official California DMV requirement of answering at least **38 out of 46 questions** correctly (maximum 8 errors allowed) to pass.
 - **Question-by-Question Instant Learning**:
   - Immediately highlights whether your choice is **Correct** (green) or **Incorrect** (red) and displays the official handbook rule explanation.
@@ -19,7 +19,7 @@ An interactive web application that generates realistic **46-question California
 
 ---
 
-## 14 Handbook Sections Covered (`105 Questions Total`)
+## 14 Handbook Sections Covered (`126 Questions Total`)
 
 | Section | Title | Questions in Bank |
 | :--- | :--- | :---: |
@@ -28,11 +28,11 @@ An interactive web application that generates realistic **46-question California
 | **Section 3** | The Testing Process | 5 |
 | **Section 4** | Changing, Replacing, and Renewing Your Driver's License | 3 |
 | **Section 5** | An Introduction to Driving | 8 |
-| **Section 6** | Navigating the Roads | 24 |
-| **Section 7** | Laws and Rules of the Road | 24 |
-| **Section 8** | Safe Driving | 16 |
+| **Section 6** | Navigating the Roads | 33 |
+| **Section 7** | Laws and Rules of the Road | 32 |
+| **Section 8** | Safe Driving | 19 |
 | **Section 9** | Alcohol and Drugs | 5 |
-| **Section 10** | Financial Responsibility, Insurance Requirements, and Collisions | 4 |
+| **Section 10** | Financial Responsibility, Insurance Requirements, and Collisions | 5 |
 | **Section 11** | Vehicle Registration Requirements | 2 |
 | **Section 12** | Driver Safety | 2 |
 | **Section 13** | Seniors and Driving | 2 |
