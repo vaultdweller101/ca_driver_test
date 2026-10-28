@@ -22,6 +22,9 @@
     startSectionsList: document.getElementById("start-sections-list"),
     startTestBtn: document.getElementById("start-test-btn"),
     restartTopBtn: document.getElementById("restart-top-btn"),
+    themeToggleBtn: document.getElementById("theme-toggle-btn"),
+    themeIcon: document.getElementById("theme-icon"),
+    themeLabel: document.getElementById("theme-label"),
     liveTimer: document.getElementById("live-timer"),
 
     startView: document.getElementById("start-view"),
@@ -81,6 +84,45 @@
     const mins = Math.floor(totalSeconds / 60);
     const secs = totalSeconds % 60;
     return String(mins).padStart(2, "0") + ":" + String(secs).padStart(2, "0");
+  }
+
+  function applyTheme(theme) {
+    const isDark = theme === "dark";
+    if (isDark) {
+      document.documentElement.setAttribute("data-theme", "dark");
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+    }
+    els.themeToggleBtn.setAttribute("aria-pressed", String(isDark));
+    els.themeIcon.textContent = isDark ? "\u2600\uFE0F" : "\uD83C\uDF19";
+    els.themeLabel.textContent = isDark ? "Light Mode" : "Dark Mode";
+  }
+
+  function initTheme() {
+    let saved = null;
+    try {
+      saved = localStorage.getItem("ca_dmv_theme");
+    } catch (_) {}
+    if (saved === "dark" || saved === "light") {
+      applyTheme(saved);
+    } else if (
+      window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark)").matches
+    ) {
+      applyTheme("dark");
+    } else {
+      applyTheme("light");
+    }
+  }
+
+  function toggleTheme() {
+    const currentIsDark =
+      document.documentElement.getAttribute("data-theme") === "dark";
+    const next = currentIsDark ? "light" : "dark";
+    applyTheme(next);
+    try {
+      localStorage.setItem("ca_dmv_theme", next);
+    } catch (_) {}
   }
 
   function initStartScreen() {
@@ -578,6 +620,7 @@
   }
 
   // Event Listeners
+  els.themeToggleBtn.addEventListener("click", toggleTheme);
   els.startTestBtn.addEventListener("click", startNewTest);
   els.restartTopBtn.addEventListener("click", startNewTest);
   els.retakeNewBtn.addEventListener("click", startNewTest);
@@ -609,5 +652,6 @@
   els.reviewStatusFilter.addEventListener("change", renderReviewList);
   els.reviewSectionFilter.addEventListener("change", renderReviewList);
 
+  initTheme();
   initStartScreen();
 })();
