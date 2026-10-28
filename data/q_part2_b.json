@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s6-q9",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What should you do if you want to turn right at an intersection controlled by a red arrow light?",
+    "options": [
+      "Come to a complete stop, yield to pedestrians and cross traffic, and then turn right",
+      "Wait until the light changes to green before making your turn",
+      "Slow down and turn right if no vehicles are approaching",
+      "Honk briefly to alert pedestrians and turn right"
+    ],
+    "correctIndex": 1,
+    "explanation": "You may not turn right if you are stopped at a red arrow light; you must wait until the light changes to green."
+  },
+  {
+    "id": "s6-q10",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "While waiting in an intersection to make a left turn, how should you position your front wheels?",
+    "options": [
+      "Pointed to the left so you can turn quickly when traffic clears",
+      "Pointed to the right toward the curb",
+      "Pointed straight ahead until it is safe to start your turn",
+      "Turned slightly left with your foot off the brake"
+    ],
+    "correctIndex": 2,
+    "explanation": "Keep your wheels pointed straight ahead while waiting to turn left so that if you are hit from behind, you will not be pushed into oncoming traffic."
+  },
+  {
+    "id": "s6-q11",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "Under what condition are you allowed to make a left turn against a red light?",
+    "options": [
+      "When turning from a two-way street onto a one-way street",
+      "When turning from a one-way street onto a one-way street, unless a sign prohibits the turn",
+      "When turning into a private driveway after midnight",
+      "Never; left turns on red are always illegal in California"
+    ],
+    "correctIndex": 1,
+    "explanation": "You may turn left against a red light only when turning from a one-way street onto another one-way street and no sign prohibits the turn."
+  },
+  {
+    "id": "s6-q12",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When is it legal to make a U-turn in a residential district?",
+    "options": [
+      "Whenever you use a fire station driveway to turn around",
+      "When no vehicles are approaching you within 200 feet",
+      "Only at intersections with a traffic signal",
+      "Whenever you cannot see clearly for 100 feet in each direction"
+    ],
+    "correctIndex": 1,
+    "explanation": "You may make a U-turn in a residential district if no vehicles are approaching you within 200 feet."
+  },
+  {
+    "id": "s6-q13",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "In a business district, where are you permitted to make a U-turn?",
+    "options": [
+      "Anywhere across a single set of double yellow lines",
+      "In front of a fire station if no emergency vehicles are present",
+      "Only at an intersection or on a divided highway where an opening is provided, unless a NO U-TURN sign is posted",
+      "Anywhere as long as no vehicles are within 100 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "In business districts, U-turns are prohibited except at an intersection or on a divided highway where an opening has been provided."
+  },
+  {
+    "id": "s6-q14",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "How long before exiting a freeway should you signal your intention to exit?",
+    "options": [
+      "At least 2 seconds (approximately 100 feet) before exiting",
+      "At least 3 seconds (approximately 200 feet) before exiting",
+      "At least 5 seconds (approximately 400 feet) before exiting",
+      "Only after your vehicle enters the deceleration lane"
+    ],
+    "correctIndex": 2,
+    "explanation": "When in the proper lane to exit a freeway, you should signal five seconds (approximately 400 feet) before you exit."
+  },
+  {
+    "id": "s6-q15",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "How much space do you need to safely merge, enter, or exit traffic on a city street versus on a highway?",
+    "options": [
+      "A quarter block (75 feet) on city streets; half a block (150 feet) on the highway",
+      "Half a block (about 150 feet) on city streets; a full block (about 300 feet) on the highway",
+      "One full block on both city streets and highways",
+      "100 feet on city streets; 200 feet on the highway"
+    ],
+    "correctIndex": 1,
+    "explanation": "To safely merge, enter, or exit traffic, you need half a block (about 150 feet) on city streets and a full block (about 300 feet) on the highway."
+  },
+  {
+    "id": "s6-q16",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "Within what distance of an intersection, bridge, tunnel, or railroad crossing is passing another vehicle prohibited?",
+    "options": [
+      "Within 50 feet",
+      "Within 100 feet",
+      "Within 200 feet",
+      "Within 300 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "You must not pass within 100 feet of an intersection, bridge, tunnel, railroad crossing, or other hazardous area."
+  }
+]

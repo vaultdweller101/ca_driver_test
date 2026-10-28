@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s7-q1",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What must you do when facing a red arrow traffic signal?",
+    "options": [
+      "Stop and turn when the intersection is clear",
+      "Stop and remain stopped until a green light or green arrow appears",
+      "Slow down and yield to oncoming traffic before turning",
+      "Treat it the same as a flashing red light"
+    ],
+    "correctIndex": 1,
+    "explanation": "A red arrow means STOP, and you may not turn until a green traffic signal light or green arrow appears."
+  },
+  {
+    "id": "s7-q2",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What does a flashing yellow arrow traffic signal indicate?",
+    "options": [
+      "Your protected turning time is ending and you must stop",
+      "You have a protected turn and oncoming traffic is stopped",
+      "You can turn after yielding to oncoming traffic and pedestrians",
+      "You must come to a complete stop before turning"
+    ],
+    "correctIndex": 2,
+    "explanation": "A flashing yellow arrow allows you to turn, but the turn is not protected, so you must yield to oncoming traffic and proceed with caution."
+  },
+  {
+    "id": "s7-q3",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "How should you treat an intersection when the traffic signal lights are not working?",
+    "options": [
+      "Proceed through cautiously without stopping if no cars are near",
+      "Give the right-of-way to the widest street",
+      "Stop as if the intersection is controlled by STOP signs in all directions",
+      "Treat it as an uncontrolled T-intersection"
+    ],
+    "correctIndex": 2,
+    "explanation": "When traffic signal lights are out, you must stop as if the intersection is controlled by STOP signs in all directions."
+  },
+  {
+    "id": "s7-q4",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What does a flashing 'DON'T WALK' or flashing raised hand pedestrian signal mean?",
+    "options": [
+      "Pedestrians may start crossing if they walk quickly",
+      "Pedestrians must not start crossing, but drivers must still yield to anyone already in the crosswalk",
+      "Drivers have the right-of-way over pedestrians still in the crosswalk",
+      "Only bicycles may cross the intersection"
+    ],
+    "correctIndex": 1,
+    "explanation": "When the 'DON'T WALK' or raised hand is flashing, pedestrians should not start crossing, and drivers must yield to any pedestrian already crossing."
+  },
+  {
+    "id": "s7-q5",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What does a five-sided (pentagon-shaped) road sign indicate?",
+    "options": [
+      "A railroad crossing is ahead",
+      "You are entering a highway construction zone",
+      "You are near a school and should watch for children",
+      "Slow-moving vehicles are ahead"
+    ],
+    "correctIndex": 2,
+    "explanation": "A five-sided (pentagon) sign warns that you are near a school, so you must drive slowly and stop for children in the crosswalk."
+  },
+  {
+    "id": "s7-q6",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "If you are driving at night and the road reflectors shine red in your headlights, what does this mean?",
+    "options": [
+      "You are approaching a construction zone",
+      "You are driving the wrong way on a road or ramp",
+      "You are in a high-speed passing lane",
+      "A fire station is ahead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Road reflectors that shine red in your headlights at night warn you that you are going the wrong way."
+  },
+  {
+    "id": "s7-q7",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "At a T-intersection without STOP or YIELD signs, who has the right-of-way?",
+    "options": [
+      "Vehicles turning onto the through road from the terminating street",
+      "Vehicles, bicyclists, and pedestrians on the through road continuing straight",
+      "Whoever is traveling the fastest",
+      "The vehicle turning left"
+    ],
+    "correctIndex": 1,
+    "explanation": "At an uncontrolled T-intersection, vehicles, bicyclists, and pedestrians on the through road have the right-of-way."
+  },
+  {
+    "id": "s7-q8",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What should you do when entering and driving in a roundabout?",
+    "options": [
+      "Travel clockwise and require vehicles inside the roundabout to yield to you",
+      "Stop inside the roundabout if you miss your exit and back up",
+      "Yield to traffic already in the roundabout and travel in a counterclockwise direction",
+      "Pass slower vehicles on the right while inside the roundabout"
+    ],
+    "correctIndex": 2,
+    "explanation": "In a roundabout, traffic travels counterclockwise around a central island, and entering drivers must yield to traffic already in the roundabout."
+  }
+]

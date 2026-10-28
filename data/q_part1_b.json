@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s3-q1",
+    "sectionId": 3,
+    "sectionTitle": "Section 3: The Testing Process",
+    "question": "How many attempts are you allowed to pass the DMV knowledge test before you must reapply?",
+    "options": [
+      "One attempt",
+      "Two attempts",
+      "Three attempts",
+      "Four attempts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Applicants are allowed three attempts to pass the knowledge test before they must submit a new application."
+  },
+  {
+    "id": "s3-q2",
+    "sectionId": 3,
+    "sectionTitle": "Section 3: The Testing Process",
+    "question": "If a minor fails the behind-the-wheel drive test, how long must they wait before retaking it?",
+    "options": [
+      "7 days, not including the day of failure",
+      "10 days, including the day of failure",
+      "14 days, not including the day of failure",
+      "30 days, not including the day of failure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Minors must wait 14 days to retake a failed behind-the-wheel drive test, not counting the day of the failed test."
+  },
+  {
+    "id": "s3-q3",
+    "sectionId": 3,
+    "sectionTitle": "Section 3: The Testing Process",
+    "question": "What is the minimum uniform tire tread depth required on a vehicle used for a behind-the-wheel drive test?",
+    "options": [
+      "1/64-inch",
+      "1/32-inch",
+      "1/16-inch",
+      "1/8-inch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tires on a drive test vehicle must have at least 1/32-inch of uniform tread depth, and donut tires are not permitted."
+  },
+  {
+    "id": "s3-q4",
+    "sectionId": 3,
+    "sectionTitle": "Section 3: The Testing Process",
+    "question": "From what minimum distance must your vehicle's horn be audible to pass the pre-drive inspection?",
+    "options": [
+      "50 feet",
+      "100 feet",
+      "200 feet",
+      "500 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Your vehicle's horn must be in proper working condition and loud enough to be heard from a distance of at least 200 feet."
+  },
+  {
+    "id": "s3-q5",
+    "sectionId": 3,
+    "sectionTitle": "Section 3: The Testing Process",
+    "question": "Which of the following is prohibited during a DMV behind-the-wheel drive test?",
+    "options": [
+      "Using a vehicle's backup camera as an extra aid while looking back",
+      "Using a video recording device or automated parallel parking technology",
+      "Adjusting the left and interior rearview mirrors",
+      "Using a rental car that explicitly lists your name on the contract"
+    ],
+    "correctIndex": 1,
+    "explanation": "Recording devices and advanced driver assistance systems (like automated parallel parking or adaptive cruise control) are prohibited during the drive test."
+  },
+  {
+    "id": "s4-q1",
+    "sectionId": 4,
+    "sectionTitle": "Section 4: Changing, Replacing, and Renewing Your Driver's License",
+    "question": "Within how many days must you notify the DMV after changing your address?",
+    "options": [
+      "5 days",
+      "10 days",
+      "15 days",
+      "30 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you move, California law requires you to notify the DMV of your new address within 10 days."
+  },
+  {
+    "id": "s4-q2",
+    "sectionId": 4,
+    "sectionTitle": "Section 4: Changing, Replacing, and Renewing Your Driver's License",
+    "question": "What should you do if you find your old driver's license after receiving a replacement card?",
+    "options": [
+      "Keep it in your glove box as a backup",
+      "Destroy the old driver's license card",
+      "Use it until its printed expiration date",
+      "Lend it to a family member for identification"
+    ],
+    "correctIndex": 1,
+    "explanation": "Once a replacement card is issued, your old card is no longer valid and must be destroyed if found."
+  },
+  {
+    "id": "s4-q3",
+    "sectionId": 4,
+    "sectionTitle": "Section 4: Changing, Replacing, and Renewing Your Driver's License",
+    "question": "If you are temporarily out of state and cannot renew your standard driver's license, what can you request before it expires?",
+    "options": [
+      "A permanent waiver of renewal",
+      "A one-year extension of your driver's license",
+      "A five-year automatic renewal",
+      "A temporary commercial endorsement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eligible drivers who are out of state may request a one-year extension of their driver's license before it expires."
+  }
+]

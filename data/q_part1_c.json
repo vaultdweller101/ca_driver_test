@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s5-q1",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "What does California law state regarding wearing a headset or earplugs while driving?",
+    "options": [
+      "It is legal at all times on highways",
+      "It is illegal to wear a headset or earplugs in both ears while driving",
+      "It is allowed if the volume is kept below 50%",
+      "It is only illegal for commercial vehicle drivers"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is illegal to wear a headset or earplugs in both ears while driving because you must be able to hear horns, sirens, and other hazards."
+  },
+  {
+    "id": "s5-q2",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "Where should you place your hands on the steering wheel when using hand-to-hand (push/pull) steering?",
+    "options": [
+      "10 and 2 o'clock",
+      "9 and 3 o'clock or 8 and 4 o'clock",
+      "12 and 6 o'clock",
+      "11 and 1 o'clock"
+    ],
+    "correctIndex": 1,
+    "explanation": "For hand-to-hand steering, start with your hands at 9 and 3 o'clock or 8 and 4 o'clock and avoid crossing your hands over the middle of the wheel."
+  },
+  {
+    "id": "s5-q3",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "When are you advised to use the hand-over-hand steering method?",
+    "options": [
+      "When cruising at high speeds on a freeway",
+      "When turning at low speeds, parking, or recovering from a skid",
+      "Whenever changing lanes in heavy traffic",
+      "Only when driving with one hand at 12 o'clock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hand-over-hand steering is used when turning at low speeds, parking, or recovering from a skid."
+  },
+  {
+    "id": "s5-q4",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "How do you give a proper hand-and-arm signal for a right turn?",
+    "options": [
+      "Left arm extended straight out horizontally",
+      "Left arm bent upward at a 90-degree angle",
+      "Left arm bent downward at a 90-degree angle",
+      "Right arm waved in a circular motion"
+    ],
+    "correctIndex": 1,
+    "explanation": "To signal a right turn using hand-and-arm signals, bend your left arm upward at a 90-degree angle."
+  },
+  {
+    "id": "s5-q5",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "At least how far before a turn must you begin signaling?",
+    "options": [
+      "At least 50 feet before turning",
+      "At least 100 feet before turning",
+      "At least 200 feet before turning",
+      "At least 300 feet before turning"
+    ],
+    "correctIndex": 1,
+    "explanation": "You should always signal at least 100 feet before making a turn and at least 5 seconds before changing lanes on a freeway."
+  },
+  {
+    "id": "s5-q6",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "When driving on narrow mountain roads where you cannot see at least 200 feet ahead, what should you do?",
+    "options": [
+      "Turn on your high-beam headlights even in daylight",
+      "Use your horn to alert oncoming traffic",
+      "Drive in the center of the roadway",
+      "Turn on your emergency flashers continuously"
+    ],
+    "correctIndex": 1,
+    "explanation": "You should use your horn to alert oncoming traffic on narrow mountain roads where visibility is less than 200 feet ahead."
+  },
+  {
+    "id": "s5-q7",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "Within what distance must you dim your high-beam headlights when approaching an oncoming vehicle or following another vehicle?",
+    "options": [
+      "Within 500 feet of an oncoming vehicle or 300 feet of a vehicle you are following",
+      "Within 300 feet of an oncoming vehicle or 500 feet of a vehicle you are following",
+      "Within 200 feet of an oncoming vehicle or 100 feet of a vehicle you are following",
+      "Within 1,000 feet of both oncoming and followed vehicles"
+    ],
+    "correctIndex": 0,
+    "explanation": "You must dim high-beam headlights to low beams within 500 feet of an oncoming vehicle or within 300 feet of a vehicle you are following."
+  },
+  {
+    "id": "s5-q8",
+    "sectionId": 5,
+    "sectionTitle": "Section 5: An Introduction to Driving",
+    "question": "In addition to driving between 30 minutes after sunset and 30 minutes before sunrise, when are you required to turn on your low-beam headlights?",
+    "options": [
+      "Only when driving faster than 65 mph",
+      "Whenever weather conditions require the continuous use of your windshield wipers, or when you cannot see from 1,000 feet away",
+      "Only when parked on the side of an illuminated city street",
+      "Whenever the temperature drops below 50 degrees Fahrenheit"
+    ],
+    "correctIndex": 1,
+    "explanation": "You must turn on your low-beam headlights when it is too dark to see from 1,000 feet away and whenever fog, rain, or snow requires you to use your windshield wipers."
+  }
+]

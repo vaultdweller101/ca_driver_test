@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s7-q17",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What happens to fines for traffic violations committed in a highway construction or maintenance zone when workers are present?",
+    "options": [
+      "Fines remain the same as in normal traffic zones",
+      "Fines are doubled and can be $1,000 or more",
+      "Fines are capped at $250",
+      "Only commercial drivers face increased fines"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fines are doubled in highway construction or maintenance zones when workers are present, and violations can result in fines of $1,000 or more."
+  },
+  {
+    "id": "s7-q18",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "When a school bus is stopped ahead with flashing red lights, when are you NOT required to stop?",
+    "options": [
+      "When you see no children currently in the street",
+      "When you are driving at 15 mph or less",
+      "When the school bus is on the other side of a divided or multilane highway with two or more lanes in each direction",
+      "When you are approaching the school bus from the front on a two-lane road"
+    ],
+    "correctIndex": 2,
+    "explanation": "You do not need to stop if the school bus is on the opposite side of a divided or multilane highway with two or more lanes in each direction."
+  },
+  {
+    "id": "s7-q19",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What is the speed limit in an alley or at a blind intersection where you cannot see for 100 feet in both directions?",
+    "options": [
+      "10 mph",
+      "15 mph",
+      "20 mph",
+      "25 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "The speed limit is 15 mph in alleys and within 100 feet of a blind intersection without stop signs where you cannot see for 100 feet in both directions."
+  },
+  {
+    "id": "s7-q20",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "Unless otherwise posted, what is the speed limit in a business or residential district, and within 500 feet of a school when children are outside?",
+    "options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "35 mph"
+    ],
+    "correctIndex": 2,
+    "explanation": "The default speed limit in business or residential districts, as well as within 500 feet of a school while children are outside or crossing, is 25 mph."
+  },
+  {
+    "id": "s7-q21",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What is required when cargo extends more than 4 feet from the back-rear bumper of your vehicle?",
+    "options": [
+      "A 12-inch yellow triangle sign at all times",
+      "A 12-inch red or fluorescent orange square flag during the day, and two red lights at night",
+      "A flashing amber light on top of the vehicle",
+      "A special commercial permit from the DMV"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cargo extending more than 4 feet from the rear bumper must display a 12-inch red or fluorescent orange square flag by day and two red lights at night."
+  },
+  {
+    "id": "s7-q22",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "Which of the following is an illegal action regarding passengers, animals, or vehicle equipment?",
+    "options": [
+      "Placing an electronic toll payment device in a 5-inch square at the top center of the windshield",
+      "Smoking in a vehicle when a minor is present, or transporting an unsecured animal in the back of a pickup truck",
+      "Affixing a sticker in a 7-inch square on the lower corner of the passenger-side windshield",
+      "Carrying cargo on the right side that extends 4 inches beyond the fenders"
+    ],
+    "correctIndex": 1,
+    "explanation": "California law prohibits smoking when a minor is in the vehicle and prohibits transporting animals in the back of a pickup truck unless properly secured."
+  },
+  {
+    "id": "s7-q23",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "Under the Negligent Operator Treatment System, an adult driver's license may be suspended if they accumulate how many points?",
+    "options": [
+      "2 points in 12 months, 4 points in 24 months, or 6 points in 36 months",
+      "3 points in 12 months, 5 points in 24 months, or 7 points in 36 months",
+      "4 points in 12 months, 6 points in 24 months, or 8 points in 36 months",
+      "6 points in 12 months, 8 points in 24 months, or 10 points in 36 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "An adult driver's license may be suspended for accumulating 4 points in 12 months, 6 points in 24 months, or 8 points in 36 months."
+  },
+  {
+    "id": "s7-q24",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What happens if a minor with a provisional driver's license gets two at-fault collisions or two traffic violation convictions (or one of each)?",
+    "options": [
+      "Their license is immediately revoked until age 21",
+      "They cannot drive for 30 days unless a licensed adult at least 25 years old rides with them",
+      "They must retake the behind-the-wheel driving test within 10 days",
+      "Their vehicle is impounded for 60 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "With two at-fault collisions or convictions (or one of each), a provisional licensee cannot drive for 30 days unless accompanied by a licensed adult aged 25 or older."
+  }
+]

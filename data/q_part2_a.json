@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s6-q1",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What do two sets of solid double yellow lines spaced two or more feet apart indicate?",
+    "options": [
+      "A center left turn lane",
+      "A barrier that you must not drive on, over, or make a left turn or U-turn across except at designated openings",
+      "A lane where passing is permitted if no oncoming traffic is present",
+      "A reversible traffic lane used during peak commute hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Two sets of solid double yellow lines spaced two or more feet apart are considered a barrier and may only be crossed at designated openings."
+  },
+  {
+    "id": "s6-q2",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What do double solid white lines between traffic lanes indicate?",
+    "options": [
+      "Lanes of traffic moving in opposite directions",
+      "A lane barrier between a regular use lane and a preferential use lane, such as a carpool (HOV) lane",
+      "You may change lanes cautiously if traffic is clear",
+      "An upcoming freeway exit lane"
+    ],
+    "correctIndex": 1,
+    "explanation": "Double solid white lines indicate a lane barrier between a regular use lane and a preferential use lane (such as an HOV lane), and you must never change lanes over them."
+  },
+  {
+    "id": "s6-q3",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What does a yield line made of solid white triangles painted across a lane mean?",
+    "options": [
+      "The lane is reserved for bicycles and pedestrians only",
+      "Traffic in the lane is accelerating to merge onto a freeway",
+      "It shows approaching vehicles where to yield or stop, with triangles pointing toward approaching vehicles",
+      "The road ahead is closed to all motor vehicles"
+    ],
+    "correctIndex": 2,
+    "explanation": "A yield line consists of solid white triangles pointing toward approaching vehicles to indicate where to yield or stop."
+  },
+  {
+    "id": "s6-q4",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "On a multilane highway, which lane is referred to as the 'Number 1 Lane'?",
+    "options": [
+      "The far right lane closest to the highway exit ramps",
+      "The center lane used for cruising",
+      "The far left (or fast) lane closest to the center divider",
+      "The emergency shoulder lane"
+    ],
+    "correctIndex": 2,
+    "explanation": "The left (or fast) lane is called the Number 1 Lane, with lanes to the right numbered sequentially as Number 2, Number 3, and so on."
+  },
+  {
+    "id": "s6-q5",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "How far are you permitted to drive in a center left turn lane?",
+    "options": [
+      "Up to 100 feet",
+      "Up to 200 feet",
+      "Up to 300 feet",
+      "As far as necessary to pass slower traffic"
+    ],
+    "correctIndex": 1,
+    "explanation": "A center left turn lane is not a regular traffic or passing lane, and you may only drive in it for up to 200 feet to prepare for or make a left turn or U-turn."
+  },
+  {
+    "id": "s6-q6",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When driving slowly on a two-lane road where passing is unsafe, you must use a turnout area or lane to let others pass if how many vehicles are following you?",
+    "options": [
+      "Two or more vehicles",
+      "Three or more vehicles",
+      "Four or more vehicles",
+      "Five or more vehicles"
+    ],
+    "correctIndex": 3,
+    "explanation": "You must pull into a turnout area or lane to let other vehicles pass when driving slowly on a two-lane road where passing is unsafe and five or more vehicles are following you."
+  },
+  {
+    "id": "s6-q7",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When preparing to make a right turn, within what distance of the intersection may you enter a bicycle lane?",
+    "options": [
+      "Within 50 feet of the intersection",
+      "Within 100 feet of the intersection",
+      "Within 200 feet of the intersection",
+      "You may never enter a bicycle lane to turn"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is illegal to drive in a bicycle lane unless parking where permitted, entering or leaving the road, or turning within 200 feet of an intersection."
+  },
+  {
+    "id": "s6-q8",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When passing a bicyclist on a roadway with shared roadway bicycle markings (sharrows), what minimum distance must you maintain between your car and the cyclist?",
+    "options": [
+      "One foot",
+      "Two feet",
+      "Three feet",
+      "Five feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drivers must maintain at least three feet of distance between their vehicle and a bicyclist."
+  }
+]

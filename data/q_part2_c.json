@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s6-q17",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "When parallel parking, within how many inches of the curb must your vehicle's wheels be when finished?",
+    "options": [
+      "Within 6 inches of the curb",
+      "Within 12 inches of the curb",
+      "Within 18 inches of the curb",
+      "Within 24 inches of the curb"
+    ],
+    "correctIndex": 2,
+    "explanation": "When parallel parking is complete, your vehicle must be parallel to and within 18 inches of the curb."
+  },
+  {
+    "id": "s6-q18",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "How should you position your front wheels when parking headed uphill on a street that has a curb?",
+    "options": [
+      "Turned away from the curb (left, toward the center of the road)",
+      "Turned into the curb (right, toward the side of the road)",
+      "Pointed straight ahead parallel to the curb",
+      "Turned to the right only if the hill is very steep"
+    ],
+    "correctIndex": 0,
+    "explanation": "When parking headed uphill next to a curb, turn your front wheels away from the curb (left) and let the vehicle roll back slightly until the wheel gently touches the curb."
+  },
+  {
+    "id": "s6-q19",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "How should you position your front wheels when parking either uphill or downhill on a road where there is NO curb?",
+    "options": [
+      "Turned to the left toward the center of the road",
+      "Turned to the right so the vehicle will roll away from the center of the road if the brakes fail",
+      "Pointed straight ahead",
+      "Turned left when uphill and right when downhill"
+    ],
+    "correctIndex": 1,
+    "explanation": "When parking uphill or downhill where there is no curb, turn your front wheels to the right so the vehicle will roll away from the center of the road if the brakes fail."
+  },
+  {
+    "id": "s6-q20",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "What does a yellow painted curb indicate?",
+    "options": [
+      "Stop only long enough to pick up or drop off passengers",
+      "Park for a limited time as posted on a sign",
+      "Stop only long enough to load and unload passengers and freight, not longer than the time posted",
+      "Emergency vehicle parking only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A yellow curb is designated for loading and unloading passengers and freight for no longer than the time posted."
+  },
+  {
+    "id": "s6-q21",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "It is illegal to park or leave your vehicle within what distance of a fire hydrant or fire station driveway?",
+    "options": [
+      "Within 5 feet",
+      "Within 10 feet",
+      "Within 15 feet",
+      "Within 25 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Never park or leave your vehicle within 15 feet of a fire hydrant or a fire station driveway."
+  },
+  {
+    "id": "s6-q22",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "A vehicle that is stopped, parked, or left standing on a freeway may be removed after how many hours?",
+    "options": [
+      "More than 1 hour",
+      "More than 2 hours",
+      "More than 4 hours",
+      "More than 24 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "A vehicle stopped, parked, or left standing on a freeway for more than four hours may be legally removed."
+  },
+  {
+    "id": "s6-q23",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "If a law enforcement officer signals you to pull over while you are driving in the left-hand carpool (HOV) lane, where should you stop?",
+    "options": [
+      "Immediately in the center median next to the HOV lane",
+      "Move completely onto the right shoulder",
+      "In the HOV lane with your hazard lights flashing",
+      "At the next shopping center off the freeway"
+    ],
+    "correctIndex": 1,
+    "explanation": "During a law enforcement stop, turn on your right turn signal and move completely onto the right shoulder, even if you are in the carpool/HOV lane."
+  },
+  {
+    "id": "s6-q24",
+    "sectionId": 6,
+    "sectionTitle": "Section 6: Navigating the Roads",
+    "question": "During a traffic stop in California, who is legally permitted to ask a driver or passenger about their immigration status?",
+    "options": [
+      "Any California Highway Patrol officer",
+      "County sheriffs and local city police officers",
+      "Only federal law enforcement officers",
+      "Any law enforcement officer if a traffic citation is issued"
+    ],
+    "correctIndex": 2,
+    "explanation": "In California, state and local officers are prohibited from asking drivers or passengers about their immigration status; only federal law enforcement officers can ask."
+  }
+]

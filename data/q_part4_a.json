@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s8-q1",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "How far ahead of your vehicle should you scan the road while driving?",
+    "options": [
+      "At least 10 seconds ahead",
+      "At least 3 seconds ahead",
+      "At least 5 seconds ahead",
+      "Only up to the vehicle directly in front of you"
+    ],
+    "correctIndex": 0,
+    "explanation": "Always keep your eyes moving and scan the road at least 10 seconds ahead of your vehicle to spot hazards early."
+  },
+  {
+    "id": "s8-q2",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "What should you do if another driver is tailgating you?",
+    "options": [
+      "Brake sharply to warn the driver to back off",
+      "Maintain your course and speed, then merge right when safe to let them pass",
+      "Speed up to increase the distance between your vehicles",
+      "Turn on your hazard lights and slow down immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "If a tailgater is behind you, maintain your course and speed, then merge right when safe to allow them to pass."
+  },
+  {
+    "id": "s8-q3",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "If your vehicle starts to skid on a slippery surface, what should you do?",
+    "options": [
+      "Slam on the brakes and steer in the opposite direction of the skid",
+      "Slowly remove your foot from the accelerator, do not use the brakes, and turn the steering wheel in the direction of the skid",
+      "Press the accelerator firmly and steer straight ahead",
+      "Shift into neutral and apply the parking brake immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a slippery surface skid, slowly ease off the accelerator, avoid braking, and steer in the direction of the skid."
+  },
+  {
+    "id": "s8-q4",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "How should you adjust your speed when driving on packed snow?",
+    "options": [
+      "Reduce your speed by 5 to 10 mph",
+      "Reduce your speed by half",
+      "Reduce your speed to no more than 5 mph",
+      "Maintain the posted speed limit if you have all-season tires"
+    ],
+    "correctIndex": 1,
+    "explanation": "You should reduce your speed by half when driving on packed snow, by 5-10 mph on wet roads, and to no more than 5 mph on ice."
+  },
+  {
+    "id": "s8-q5",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "In a heavy rainstorm or snowstorm where you cannot see farther than 100 feet, what is the maximum safe driving speed?",
+    "options": [
+      "20 mph",
+      "30 mph",
+      "45 mph",
+      "55 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "If visibility is 100 feet or less during heavy rain or snow, it is not safe to drive faster than 30 mph."
+  },
+  {
+    "id": "s8-q6",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "What is the proper response if your vehicle begins to hydroplane on a wet road?",
+    "options": [
+      "Apply firm, steady pressure to the brakes",
+      "Slow down gradually and do not use the brakes",
+      "Accelerate slightly to regain tire traction",
+      "Turn the steering wheel sharply toward the shoulder"
+    ],
+    "correctIndex": 1,
+    "explanation": "If your vehicle starts to hydroplane, slow down gradually by easing off the gas and do not apply the brakes."
+  },
+  {
+    "id": "s8-q7",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "Which lights should you use when driving in fog or heavy smoke?",
+    "options": [
+      "High-beam headlights",
+      "Low-beam headlights",
+      "Parking lights only",
+      "Emergency flashers only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drive slowly and use low-beam headlights in fog or heavy smoke because high beams reflect back and create glare."
+  },
+  {
+    "id": "s8-q8",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "What should you do when a law enforcement officer conducts a traffic break by weaving across lanes with emergency lights on?",
+    "options": [
+      "Pass the patrol vehicle on the left shoulder if your lane is clear",
+      "Turn on your emergency flashers, slowly decrease your speed to match the officer, and do not pass the patrol vehicle",
+      "Pull over to the center median and come to a complete stop immediately",
+      "Maintain the posted speed limit until the officer waves you to stop"
+    ],
+    "correctIndex": 1,
+    "explanation": "During a traffic break, turn on your emergency flashers, slowly reduce speed to match the officer, and never pass the patrol vehicle."
+  }
+]

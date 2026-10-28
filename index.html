@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026 California DMV Knowledge Test Simulator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="ca-badge" aria-hidden="true">CA DMV</span>
+        <div>
+          <p class="brand-Title">California Driver's Handbook (2026)</p>
+          <p class="brand-subtitle">Official 46-Question Knowledge Test Simulator</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <span id="live-timer" class="timer-pill" hidden aria-live="off">00:00</span>
+        <button type="button" id="restart-top-btn" class="btn btn-outline btn-sm" hidden>New 46-Question Test</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container main-content">
+    <!-- START VIEW -->
+    <section id="start-view" class="card hero-card" aria-labelledby="main-heading">
+      <div class="hero-header">
+        <span class="pill-badge">2026 Edition &bull; 14 Handbook Sections</span>
+        <h1 id="main-heading">California DMV Knowledge Practice Test</h1>
+        <p class="lead">
+          Each test randomly selects <strong>46 questions</strong> from our <strong><span id="bank-count">105</span>-question bank</strong> covering all 14 sections of the 2026 California Driver's Handbook.
+        </p>
+      </div>
+
+      <div class="rules-grid" role="list">
+        <div class="rule-box" role="listitem">
+          <span class="rule-num">46</span>
+          <span class="rule-label">Random Questions</span>
+          <span class="rule-desc">Drawn from Sections 1–14 of the 2026 handbook</span>
+        </div>
+        <div class="rule-box highlight-rule" role="listitem">
+          <span class="rule-num">38 / 46</span>
+          <span class="rule-label">Minimum to Pass (83%)</span>
+          <span class="rule-desc">Up to 8 errors allowed to pass the exam</span>
+        </div>
+        <div class="rule-box" role="listitem">
+          <span class="rule-num">14</span>
+          <span class="rule-label">Handbook Sections</span>
+          <span class="rule-desc">Detailed performance breakdown per section</span>
+        </div>
+      </div>
+
+      <div class="hero-cta">
+        <button type="button" id="start-test-btn" class="btn btn-primary btn-lg">
+          Start 46-Question DMV Test
+        </button>
+      </div>
+
+      <details class="sections-preview">
+        <summary>View All 14 Handbook Sections in the Question Bank</summary>
+        <ul id="start-sections-list" class="sections-grid-list"></ul>
+      </details>
+    </section>
+
+    <!-- QUIZ VIEW -->
+    <section id="quiz-view" class="quiz-layout" hidden aria-label="Knowledge Test">
+      <div class="quiz-main card">
+        <div class="quiz-progress-bar-wrap">
+          <div class="progress-meta">
+            <span id="question-counter" class="question-counter">Question 1 of 46</span>
+            <span id="answered-counter" class="answered-counter">0 / 46 Answered</span>
+          </div>
+          <progress id="quiz-progress" class="quiz-progress" value="0" max="46"></progress>
+        </div>
+
+        <div class="question-header-meta">
+          <span id="question-section-badge" class="section-tag">Section 1</span>
+          <span id="question-status-badge" class="question-status-badge" hidden></span>
+        </div>
+
+        <form id="question-form" novalidate>
+          <fieldset class="question-fieldset">
+            <legend id="question-text" class="question-legend">Question text loads here...</legend>
+            <div id="options-container" class="options-list"></div>
+          </fieldset>
+
+          <div id="instant-feedback-box" class="feedback-box" hidden aria-live="polite"></div>
+
+          <div class="quiz-nav-actions">
+            <button type="button" id="prev-question-btn" class="btn btn-outline">
+              &larr; Previous
+            </button>
+            <div class="nav-right-group">
+              <button type="button" id="next-question-btn" class="btn btn-primary">
+                Next Question &rarr;
+              </button>
+              <button type="button" id="finish-test-btn" class="btn btn-success">
+                Submit Test (46 Qs)
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <aside class="quiz-sidebar card" aria-label="Question Navigator">
+        <div class="sidebar-header">
+          <h2>Question Palette</h2>
+          <p class="sidebar-hint">Click any number to jump directly to that question.</p>
+        </div>
+        <div id="question-palette" class="palette-grid" role="list"></div>
+        <div class="palette-legend">
+          <span><i class="dot dot-current"></i> Current</span>
+          <span><i class="dot dot-correct"></i> Correct</span>
+          <span><i class="dot dot-incorrect"></i> Incorrect</span>
+        </div>
+        <div class="sidebar-submit-wrap">
+          <p id="unanswered-warning" class="unanswered-note" aria-live="polite"></p>
+          <button type="button" id="sidebar-submit-btn" class="btn btn-success btn-block">
+            Finish &amp; Grade Test
+          </button>
+        </div>
+      </aside>
+    </section>
+
+    <!-- RESULTS VIEW -->
+    <section id="results-view" class="results-layout" hidden aria-labelledby="results-heading">
+      <!-- Score Banner -->
+      <div id="result-banner" class="card result-banner">
+        <div class="result-badge-wrap">
+          <span id="pass-fail-pill" class="status-pill">RESULT</span>
+          <h2 id="results-heading" class="result-title">Test Results</h2>
+          <p id="result-subtitle" class="result-subtitle"></p>
+        </div>
+
+        <div class="score-metrics-grid" role="list">
+          <div class="metric-card" role="listitem">
+            <span class="metric-label">Your Score</span>
+            <span id="score-fraction" class="metric-value">38 / 46</span>
+            <span id="score-percentage" class="metric-sub">82.6% Accuracy</span>
+          </div>
+          <div class="metric-card" role="listitem">
+            <span class="metric-label">Passing Threshold</span>
+            <span class="metric-value">38 / 46</span>
+            <span class="metric-sub">Max 8 incorrect allowed</span>
+          </div>
+          <div class="metric-card" role="listitem">
+            <span class="metric-label">Incorrect / Unanswered</span>
+            <span id="missed-count" class="metric-value">8</span>
+            <span id="time-spent" class="metric-sub">Time: 00:00</span>
+          </div>
+        </div>
+
+        <div class="result-cta-row">
+          <button type="button" id="retake-new-btn" class="btn btn-primary btn-lg">
+            Generate New 46-Question Test
+          </button>
+          <a href="#question-review-section" class="btn btn-outline btn-lg">
+            Review Answers Below
+          </a>
+        </div>
+      </div>
+
+      <!-- PERFORMANCE PER SECTION -->
+      <section class="card section-performance-card" aria-labelledby="section-perf-heading">
+        <div class="section-perf-header">
+          <div>
+            <h2 id="section-perf-heading">Performance by Handbook Section</h2>
+            <p class="section-perf-desc">
+              Breakdown of your accuracy across each section of the 2026 California Driver's Handbook tested in this 46-question exam.
+            </p>
+          </div>
+          <div class="sort-controls">
+            <label for="section-sort-select">Sort sections by:</label>
+            <select id="section-sort-select" name="sectionSort">
+              <option value="section">Handbook Order (Section 1–14)</option>
+              <option value="lowest">Lowest Score First (Needs Study)</option>
+              <option value="highest">Highest Score First</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="study-recommendations" class="study-alert" hidden></div>
+
+        <div class="table-responsive">
+          <table class="section-perf-table">
+            <thead>
+              <tr>
+                <th scope="col">Handbook Section</th>
+                <th scope="col">Correct / Total</th>
+                <th scope="col">Accuracy</th>
+                <th scope="col">Visual Breakdown</th>
+                <th scope="col">Status</th>
+                <th scope="col">Action</th>
+              </tr>
+            </thead>
+            <tbody id="section-perf-tbody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- DETAILED QUESTION REVIEW -->
+      <section id="question-review-section" class="card review-card" aria-labelledby="review-heading">
+        <div class="review-header">
+          <div>
+            <h2 id="review-heading">Question-by-Question Review</h2>
+            <p class="section-perf-desc">Inspect your selected answer, the correct handbook answer, and the official rule explanation.</p>
+          </div>
+          <div class="review-filters">
+            <div class="filter-group">
+              <label for="review-status-filter">Status:</label>
+              <select id="review-status-filter" name="statusFilter">
+                <option value="all">All 46 Questions</option>
+                <option value="incorrect">Incorrect &amp; Unanswered Only</option>
+                <option value="correct">Correct Only</option>
+              </select>
+            </div>
+            <div class="filter-group">
+              <label for="review-section-filter">Section:</label>
+              <select id="review-section-filter" name="sectionFilter">
+                <option value="all">All Sections</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div id="review-list" class="review-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <dialog id="confirm-submit-dialog" closedby="any">
+    <form method="dialog" class="dialog-content">
+      <h2 id="dialog-title">Submit Your DMV Test?</h2>
+      <p id="dialog-message">You have unanswered questions. Unanswered questions will be marked incorrect.</p>
+      <div class="dialog-actions">
+        <button type="submit" value="cancel" class="btn btn-outline">Return to Test</button>
+        <button type="submit" value="confirm" class="btn btn-success">Submit &amp; See Results</button>
+      </div>
+    </form>
+  </dialog>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Based on the official <strong>2026 California Driver's Handbook</strong> (California Department of Motor Vehicles). Passing score: 38 / 46 (82.6%).</p>
+    </div>
+  </footer>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s7-q9",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What should you do when another vehicle is stopped at a crosswalk?",
+    "options": [
+      "Pass the vehicle carefully on the right",
+      "Honk your horn and pass on the left",
+      "Do not pass a vehicle stopped at a crosswalk because a pedestrian may be crossing",
+      "Pass at no more than 10 mph if you do not see anyone"
+    ],
+    "correctIndex": 2,
+    "explanation": "You must never pass a vehicle stopped at a crosswalk, as there may be pedestrians crossing that you cannot see."
+  },
+  {
+    "id": "s7-q10",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "How should you respond when approaching a blind pedestrian using a white cane or guide dog at an intersection?",
+    "options": [
+      "Honk briefly so the pedestrian knows where your vehicle is located",
+      "Stop in the middle of the crosswalk so they can walk behind your car",
+      "Yield the right-of-way at all times and do not honk your horn",
+      "Proceed immediately unless the pedestrian waves you to stop"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pedestrians using guide dogs or white canes have the right-of-way at all times, and you should never honk your horn at them or block the crosswalk."
+  },
+  {
+    "id": "s7-q11",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "When two vehicles meet on a steep, narrow mountain road where neither can pass, who has the right-of-way?",
+    "options": [
+      "The vehicle facing downhill",
+      "The vehicle facing uphill",
+      "The heavier vehicle",
+      "The vehicle closest to the mountain wall"
+    ],
+    "correctIndex": 1,
+    "explanation": "The vehicle facing uphill has the right-of-way because the vehicle facing downhill has more control when backing up the hill."
+  },
+  {
+    "id": "s7-q12",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "How can you tell if you are driving in a large truck's blind spot ('No Zone')?",
+    "options": [
+      "You cannot see the truck's side mirrors",
+      "You are more than 400 feet behind the truck",
+      "You can clearly see the truck driver's face in the side mirror",
+      "The truck is driving in the far-right lane"
+    ],
+    "correctIndex": 0,
+    "explanation": "If you cannot see the truck's side mirrors, the truck driver cannot see your vehicle."
+  },
+  {
+    "id": "s7-q13",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What is the maximum speed at which you may pass a bus, streetcar, or trolley stopped at a safety zone or traffic light?",
+    "options": [
+      "5 mph",
+      "10 mph",
+      "15 mph",
+      "25 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "When a bus, streetcar, or trolley is stopped at a safety zone or traffic light, you may pass at no more than 10 mph."
+  },
+  {
+    "id": "s7-q14",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "Which of the following is true regarding sharing the road with motorcycles in California?",
+    "options": [
+      "Drivers may pass a motorcycle within the same lane if there is room",
+      "Lane splitting by motorcycles is legal, and drivers should allow at least a three-second following distance",
+      "Motorcycles need a two-second following distance because they stop slower than cars",
+      "Lane splitting is illegal on all California freeways"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lane splitting is legal in California, and drivers should maintain at least a three-second following distance and never pass a motorcycle in the same lane."
+  },
+  {
+    "id": "s7-q15",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "What is the law regarding following an emergency vehicle that has its siren or flashing lights on?",
+    "options": [
+      "You may follow within 100 feet to get through traffic",
+      "It is illegal to follow within 300 feet of the emergency vehicle",
+      "You must stay at least 500 feet behind it only on freeways",
+      "You may follow closely as long as you do not pass it"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is against the law to follow within 300 feet of any emergency vehicle when its siren or flashing lights are active."
+  },
+  {
+    "id": "s7-q16",
+    "sectionId": 7,
+    "sectionTitle": "Section 7: Laws and Rules of the Road",
+    "question": "When passing a bicyclist traveling in the same direction, how much space must you leave between your vehicle and the bicyclist?",
+    "options": [
+      "At least 2 feet",
+      "At least 3 feet",
+      "At least 5 feet",
+      "At least 10 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "California law requires drivers to allow at least three feet of space between their vehicle and a bicyclist when passing."
+  }
+]

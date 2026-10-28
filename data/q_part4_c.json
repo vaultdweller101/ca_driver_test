@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s9-q1",
+    "sectionId": 9,
+    "sectionTitle": "Section 9: Alcohol and Drugs",
+    "question": "What happens if you refuse to take a blood or urine test when a law enforcement officer suspects you are driving under the influence?",
+    "options": [
+      "You will only receive a warning if it is your first offense",
+      "DMV will suspend or revoke your driving privilege for one year",
+      "Your vehicle will be impounded for 6 months automatically",
+      "You are allowed 24 hours to consult an attorney before deciding"
+    ],
+    "correctIndex": 1,
+    "explanation": "Refusing a chemical blood or urine test when suspected of DUI will result in the DMV suspending or revoking your driving privilege for one year."
+  },
+  {
+    "id": "s9-q2",
+    "sectionId": 9,
+    "sectionTitle": "Section 9: Alcohol and Drugs",
+    "question": "Where must open containers of alcohol or cannabis products be kept inside a standard passenger vehicle?",
+    "options": [
+      "Inside a locked glove compartment",
+      "Underneath the front passenger seat",
+      "In the trunk or a place where passengers do not sit",
+      "In the center console if the driver is over 21"
+    ],
+    "correctIndex": 2,
+    "explanation": "Open alcohol or cannabis containers must be kept in the trunk or an area where passengers do not sit, and keeping them in the glove box is illegal."
+  },
+  {
+    "id": "s9-q3",
+    "sectionId": 9,
+    "sectionTitle": "Section 9: Alcohol and Drugs",
+    "question": "What is the legal Blood Alcohol Concentration (BAC) limit for drivers who are under 21 years old or on DUI probation?",
+    "options": [
+      "0.01% or higher is illegal",
+      "0.04% or higher is illegal",
+      "0.05% or higher is illegal",
+      "0.08% or higher is illegal"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is illegal to drive with a BAC of 0.01% or higher if you are under 21 years old or on DUI probation at any age."
+  },
+  {
+    "id": "s9-q4",
+    "sectionId": 9,
+    "sectionTitle": "Section 9: Alcohol and Drugs",
+    "question": "What is the illegal Blood Alcohol Concentration (BAC) threshold when driving a passenger for hire or a vehicle requiring a commercial driver's license?",
+    "options": [
+      "0.01% or higher",
+      "0.04% or higher",
+      "0.08% or higher",
+      "0.10% or higher"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is illegal to drive with a BAC of 0.04% or higher when operating a commercial vehicle or driving a passenger for hire."
+  },
+  {
+    "id": "s9-q5",
+    "sectionId": 9,
+    "sectionTitle": "Section 9: Alcohol and Drugs",
+    "question": "How long does a DUI conviction remain on your California driver's record, and how many days do you have after an arrest to request a DMV administrative hearing?",
+    "options": [
+      "5 years on your record; 30 days to request a hearing",
+      "10 years on your record; 10 days to request a hearing",
+      "7 years on your record; 15 days to request a hearing",
+      "3 years on your record; 5 days to request a hearing"
+    ],
+    "correctIndex": 1,
+    "explanation": "All DUI convictions remain on your driving record for 10 years, and you have 10 days from the date of arrest to request a DMV administrative hearing."
+  },
+  {
+    "id": "s10-q1",
+    "sectionId": 10,
+    "sectionTitle": "Section 10: Financial Responsibility, Insurance Requirements, and Collisions",
+    "question": "What are the minimum liability insurance coverage requirements for a private passenger vehicle in California?",
+    "options": [
+      "$15,000 for single death/injury, $30,000 for multiple deaths/injuries, and $5,000 for property damage",
+      "$30,000 for single death/injury, $60,000 for death/injury to more than one person, and $15,000 for property damage",
+      "$50,000 for single death/injury, $100,000 for multiple deaths/injuries, and $25,000 for property damage",
+      "$25,000 for single death/injury, $50,000 for multiple deaths/injuries, and $10,000 for property damage"
+    ],
+    "correctIndex": 1,
+    "explanation": "California law requires minimum liability coverage of $30,000 for a single death or injury, $60,000 for multiple people, and $15,000 for property damage."
+  },
+  {
+    "id": "s10-q2",
+    "sectionId": 10,
+    "sectionTitle": "Section 10: Financial Responsibility, Insurance Requirements, and Collisions",
+    "question": "What is the penalty if you are involved in a collision without proper insurance coverage?",
+    "options": [
+      "Your driving privilege will be suspended for up to 4 years, regardless of who was at fault",
+      "Your driving privilege is only suspended if you were found to be at fault",
+      "You are given a 30-day grace period to purchase insurance without penalty",
+      "Your vehicle registration is canceled permanently"
+    ],
+    "correctIndex": 0,
+    "explanation": "If you are in a collision without proper insurance coverage, your driving privilege will be suspended for up to four years regardless of fault."
+  },
+  {
+    "id": "s10-q3",
+    "sectionId": 10,
+    "sectionTitle": "Section 10: Financial Responsibility, Insurance Requirements, and Collisions",
+    "question": "When must you report a collision to the DMV using an SR 1 form?",
+    "options": [
+      "Within 24 hours if property damage exceeds $500",
+      "Within 10 days if property damage exceeds $1,000 or if anyone is injured or killed",
+      "Within 30 days, but only if the collision occurred on a public highway",
+      "Within 5 days, unless a police officer writes a report at the scene"
+    ],
+    "correctIndex": 1,
+    "explanation": "You must submit an SR 1 report to the DMV within 10 days if a collision causes over $1,000 in property damage or any injury or death, regardless of fault or location."
+  }
+]

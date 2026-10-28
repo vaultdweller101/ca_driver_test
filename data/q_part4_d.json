@@ -1,0 +1,128 @@
+[
+  {
+    "id": "s10-q4",
+    "sectionId": 10,
+    "sectionTitle": "Section 10: Financial Responsibility, Insurance Requirements, and Collisions",
+    "question": "Within what timeframe must you report a collision to law enforcement if someone is injured or killed, and what should you do if you injure an animal?",
+    "options": [
+      "Within 24 hours to law enforcement; for an injured animal, call the nearest humane society or law enforcement and do not try to move it",
+      "Within 48 hours to law enforcement; for an injured animal, place it in your vehicle and drive to a vet",
+      "Within 10 days to law enforcement; for an injured animal, leave it on the road without reporting",
+      "Within 72 hours to law enforcement; for an injured animal, move it off the road yourself"
+    ],
+    "correctIndex": 0,
+    "explanation": "You must report a collision with injuries or death to law enforcement within 24 hours, and if you hit an animal, call the humane society or police without trying to move it."
+  },
+  {
+    "id": "s11-q1",
+    "sectionId": 11,
+    "sectionTitle": "Section 11: Vehicle Registration Requirements",
+    "question": "How many days do you have to notify the DMV when you buy or sell a vehicle in California?",
+    "options": [
+      "10 days to transfer ownership when buying; 5 days to submit a Notice of Transfer and Release of Liability when selling",
+      "5 days when buying; 10 days when selling",
+      "30 days for both buying and selling a vehicle",
+      "20 days when buying; 15 days when selling"
+    ],
+    "correctIndex": 0,
+    "explanation": "You have 10 days to transfer ownership to your name when buying a vehicle and 5 days to notify the DMV when selling a vehicle."
+  },
+  {
+    "id": "s11-q2",
+    "sectionId": 11,
+    "sectionTitle": "Section 11: Vehicle Registration Requirements",
+    "question": "How soon must you register an out-of-state vehicle after becoming a California resident or getting a job in the state?",
+    "options": [
+      "Within 10 days",
+      "Within 20 days",
+      "Within 30 days",
+      "Within 60 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "You have 20 days to register an out-of-state vehicle after establishing residency or accepting employment in California."
+  },
+  {
+    "id": "s12-q1",
+    "sectionId": 12,
+    "sectionTitle": "Section 12: Driver Safety",
+    "question": "If you receive a Notice of Priority Reexamination of Driver from law enforcement, how much time do you have to contact the DMV before your license is suspended?",
+    "options": [
+      "5 working days",
+      "10 calendar days",
+      "15 working days",
+      "30 calendar days"
+    ],
+    "correctIndex": 0,
+    "explanation": "You must contact the DMV within 5 working days of receiving a Notice of Priority Reexamination or your driving privilege will be automatically suspended."
+  },
+  {
+    "id": "s12-q2",
+    "sectionId": 12,
+    "sectionTitle": "Section 12: Driver Safety",
+    "question": "What can be the basis for a DMV driver reexamination or driving restrictions?",
+    "options": [
+      "A driver reaching 65 years of age automatically",
+      "A physical or mental condition or a poor driver's record, rather than a driver's age",
+      "Driving less than 3,000 miles per year",
+      "Holding an out-of-state driver's license previously"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reexaminations and driving restrictions are based on physical or mental conditions or a poor driving record, never solely on a driver's age."
+  },
+  {
+    "id": "s13-q1",
+    "sectionId": 13,
+    "sectionTitle": "Section 13: Seniors and Driving",
+    "question": "At what age are drivers required to renew their California driver's license in person and pass a vision test?",
+    "options": [
+      "62 years old or older",
+      "65 years old or older",
+      "70 years old or older",
+      "75 years old or older"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drivers who are 70 years old or older when their license expires must renew in person and pass a vision test."
+  },
+  {
+    "id": "s13-q2",
+    "sectionId": 13,
+    "sectionTitle": "Section 13: Seniors and Driving",
+    "question": "Who is eligible for a Mature Driver Program course and who qualifies for a no-fee Senior ID card?",
+    "options": [
+      "Drivers 55+ qualify for the 8-hour Mature Driver Program; individuals 62+ (or any age unable to drive safely due to a condition) qualify for a no-fee ID card",
+      "Drivers 60+ qualify for the Mature Driver Program; only individuals 70+ qualify for a no-fee Senior ID card",
+      "Drivers 50+ qualify for the Mature Driver Program; individuals 65+ qualify for a half-price ID card",
+      "Drivers 62+ qualify for both the Mature Driver Program and a no-fee Senior ID card"
+    ],
+    "correctIndex": 0,
+    "explanation": "The eight-hour Mature Driver Program is for drivers 55 and older, while no-fee Senior ID cards are available to those 62 and older or drivers of any age unable to drive safely due to a condition."
+  },
+  {
+    "id": "s14-q1",
+    "sectionId": 14,
+    "sectionTitle": "Section 14: Glossary",
+    "question": "According to the DMV glossary, who is considered a pedestrian or a Vulnerable Road User (VRU)?",
+    "options": [
+      "Only people walking on marked sidewalks",
+      "People walking, cycling, or persons with disabilities using a wheelchair, tricycle, or quadricycle for transportation",
+      "Drivers of motorcycles and mopeds on highways",
+      "Passengers riding inside public transit buses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pedestrians and Vulnerable Road Users include people walking, cyclists, and individuals with disabilities using wheelchairs, tricycles, or quadricycles."
+  },
+  {
+    "id": "s14-q2",
+    "sectionId": 14,
+    "sectionTitle": "Section 14: Glossary",
+    "question": "What does it mean to 'yield' on the road, and how does the 'three-second rule' work?",
+    "options": [
+      "Yield means to speed up before merging; the three-second rule is the time allowed to stop at a yellow light",
+      "Yield means to slow down and be ready to stop for others with the right-of-way; the three-second rule ensures a safe following distance behind the vehicle ahead",
+      "Yield means to come to a complete stop at all intersections; the three-second rule is how long to signal before turning",
+      "Yield means to flash your headlights at pedestrians; the three-second rule measures how long to check your mirrors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yielding means slowing down and being ready to stop for those with the right-of-way, while the three-second rule helps you maintain a safe following distance behind the vehicle ahead."
+  }
+]

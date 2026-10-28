@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s8-q9",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "What is the requirement for securing children under 8 years old in a vehicle?",
+    "options": [
+      "They must be secured in a child passenger restraint system in a rear seat unless they are at least 4 feet 9 inches tall",
+      "They may use a standard seat belt in the front seat if accompanied by an adult",
+      "They only need a booster seat if they weigh less than 40 pounds",
+      "They must ride in a rear-facing car seat until they reach 8 years of age"
+    ],
+    "correctIndex": 0,
+    "explanation": "Children under 8 years old who are less than 4 feet 9 inches tall must be secured in a child passenger restraint system in a rear seat."
+  },
+  {
+    "id": "s8-q10",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "How far should you sit from the airbag cover on the steering wheel, and what is the rule for rear-facing child seats?",
+    "options": [
+      "At least 6 inches away; rear-facing seats are allowed in the front if pushed all the way back",
+      "At least 10 inches from the airbag cover, and a rear-facing child restraint system may never be placed in the front seat of an airbag-equipped vehicle",
+      "At least 12 inches away; rear-facing seats are only prohibited in compact cars",
+      "At least 8 inches away; rear-facing seats may ride in the front at speeds under 35 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sit at least 10 inches from the steering wheel airbag cover, and never place a rear-facing child seat in the front seat of a vehicle with an active airbag."
+  },
+  {
+    "id": "s8-q11",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "When is it illegal to leave a child 6 years old or younger unattended in a vehicle?",
+    "options": [
+      "Only when the outdoor temperature exceeds 80 degrees Fahrenheit",
+      "Whenever they are not under the supervision of a person who is at least 12 years old",
+      "Only when the vehicle engine is left running",
+      "Whenever the doors are unlocked for more than 10 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is illegal to leave a child 6 years old or younger unattended in a vehicle unless supervised by someone at least 12 years old."
+  },
+  {
+    "id": "s8-q12",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "Unless otherwise posted, what is the maximum speed limit on a two-lane undivided highway or for vehicles towing trailers?",
+    "options": [
+      "45 mph",
+      "55 mph",
+      "65 mph",
+      "70 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "The maximum speed limit on a two-lane undivided highway and for vehicles towing trailers is 55 mph unless otherwise posted."
+  },
+  {
+    "id": "s8-q13",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "What should you do if your vehicle experiences a tire blowout while driving?",
+    "options": [
+      "Slam on the brakes immediately and steer sharply to the shoulder",
+      "Hold the steering wheel with both hands, maintain speed if safe, gradually release the accelerator, stabilize steering, and pull off when safe",
+      "Shift into park and activate the emergency brake right away",
+      "Turn the steering wheel in the opposite direction of the blown tire while braking hard"
+    ],
+    "correctIndex": 1,
+    "explanation": "During a tire blowout, grip the wheel with both hands, gradually ease off the accelerator, stabilize your steering, and pull off the road when safe."
+  },
+  {
+    "id": "s8-q14",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "If your vehicle becomes disabled on railroad tracks and a train is approaching with warning lights flashing, which way should you run after exiting?",
+    "options": [
+      "Straight down the tracks away from the oncoming train",
+      "Diagonally away from the tracks in the direction the train is coming from",
+      "Diagonally away from the tracks in the same direction the train is traveling",
+      "Wait next to the crossing gate and wave to the train engineer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Immediately exit your vehicle and run diagonally away from the tracks toward the direction the train is coming from to avoid flying debris."
+  },
+  {
+    "id": "s8-q15",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "Under California law, when may a minor driver use a cell phone while driving?",
+    "options": [
+      "Anytime, as long as the phone is in hands-free mode",
+      "Only to make a call for emergency assistance",
+      "When stopped at a red traffic light",
+      "To read or respond to text messages from a parent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minors are prohibited from using a cell phone or wireless device while driving, even hands-free, except to call for emergency assistance."
+  },
+  {
+    "id": "s8-q16",
+    "sectionId": 8,
+    "sectionTitle": "Section 8: Safe Driving",
+    "question": "Which statement is true regarding seat belts for pregnant drivers and carbon monoxide safety?",
+    "options": [
+      "Pregnant drivers should wear the lap belt low under the abdomen, and you should never start your vehicle inside a closed garage due to deadly odorless carbon monoxide",
+      "Pregnant drivers are exempt from wearing seat belts, and carbon monoxide has a strong sulfur odor",
+      "Pregnant drivers should place the lap belt directly over the abdomen, and garages only need ventilation in winter",
+      "Only passengers under 18 must wear seat belts, and carbon monoxide is harmless if the AC is running"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregnant drivers must wear the lap belt as low as possible under the abdomen, and vehicles should never be started in a closed garage because exhaust contains deadly, odorless carbon monoxide."
+  }
+]
