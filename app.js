@@ -42,7 +42,6 @@
 
     prevQuestionBtn: document.getElementById("prev-question-btn"),
     nextQuestionBtn: document.getElementById("next-question-btn"),
-    finishTestBtn: document.getElementById("finish-test-btn"),
     sidebarSubmitBtn: document.getElementById("sidebar-submit-btn"),
     questionPalette: document.getElementById("question-palette"),
     unansweredWarning: document.getElementById("unanswered-warning"),
@@ -319,7 +318,7 @@
     }
 
     els.prevQuestionBtn.disabled = idx === 0;
-    els.nextQuestionBtn.hidden = idx === TOTAL_TEST_QUESTIONS - 1;
+    els.nextQuestionBtn.disabled = idx === TOTAL_TEST_QUESTIONS - 1;
     updatePaletteStates();
   }
 
@@ -639,7 +638,6 @@
     }
   });
 
-  els.finishTestBtn.addEventListener("click", requestSubmitTest);
   els.sidebarSubmitBtn.addEventListener("click", requestSubmitTest);
 
   els.confirmDialog.addEventListener("close", () => {
